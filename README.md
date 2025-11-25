@@ -146,6 +146,12 @@ Thank you for using the Lost Package Assistant. Goodbye!
 
 ---
 
+## Conversation Flowchart
+
+![Flowchart](test-images/Lost%20Package%20Chatbot.drawio.png)
+
+---
+
 ## Screenshots
 
 ### Self-Service Refund Request
