@@ -20,7 +20,7 @@ No additional dependencies required, only uses Python standard libraries.
 ## Approach
 
 ### Design Philosophy
-I designed this chatbot with an AI first approach encouraging users to interact with the automated system while still providing a path to human support when needed.
+I designed this chatbot with a bot-first approach encouraging users to interact with the automated system while still providing a path to human support when needed.
 
 ### Conversation Flow
 1. **Welcome** → Greet the user
@@ -40,7 +40,7 @@ I designed this chatbot with an AI first approach encouraging users to interact 
 | **Multiple Statuses** | Handles 4 different package states |
 | **Self-Service Options** | For lost packages: file investigation, request refund, or speak to agent |
 | **Agent Shortcut** | Users can type "agent" at any prompt to request human support |
-| **Soft Redirect** | First "agent" request encourages AI usage; second request escalates |
+| **Soft Redirect** | First "agent" request encourages bot usage; second request escalates |
 | **Case Insensitive** | Accepts "YES", "yes", "Yes", etc. |
 
 ### Error Handling
